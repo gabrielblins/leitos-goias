@@ -4,7 +4,7 @@
 
 Para realização desse projeto foram utilizadas diversas fontes de dados, os dados foram obtidos através da plataforma DATASUS, da Secretária de Estado de Saúde de Goiás, além de projetos open-source disponíveis no github.
 
-Você pode encontrar todos os dados [aqui]()
+Você pode encontrar todos os dados [aqui](https://drive.google.com/drive/folders/1NsvAb6p2wMMb5ZoLGxkjbLn-BP0twPSg?usp=sharing)
 
 ## 2. Analises da evolução do número de leitos no tempo e da capacidade hospitalar
 
@@ -118,13 +118,13 @@ Você pode encontrar todos os dados [aqui]()
 
 ### 3.1 Observando Leitos por 1000 habitantes
 
-Para ver essa figura interativa acesse o final do [notebook](leitos_goias.ipynb).
+Para ver essa figura interativa acesse o final do [notebook](leitos_goias.zip).
 
 - Percebemos que existem cidades que se saem melhor na questão de leitos por 1000 habitantes, isso pode se dar devido a uma boa gestão das prefeituras locais ou ainda por baixa contaminação naquelas cidades.
 
 ### 3.2 Observando Leitos Vs Ocupação
 
-Para ver essa figura interativa acesse o final do [notebook](leitos_goias.ipynb).
+Para ver essa figura interativa acesse o final do [notebook](leitos_goias.zip).
 
 - Nesse plot a circunferência indica o número de leitos por 1000 habitantes
 
