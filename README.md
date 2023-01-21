@@ -120,13 +120,13 @@ Você pode encontrar todos os dados [aqui](https://drive.google.com/drive/folder
 
 <img src="images/mapa.gif" title="" alt="" data-align="center">
 
-Para ver essa figura interativa acesse o final do [notebook](leitos_goias.zip).
+Para ver essa figura interativa acesse o final do notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BANQTSWFJ7dwUd0dx0BU5mzpBHaL_UJu?usp=sharing).
 
 - Percebemos que existem cidades que se saem melhor na questão de leitos por 1000 habitantes, isso pode se dar devido a uma boa gestão das prefeituras locais ou ainda por baixa contaminação naquelas cidades.
 
 ### 3.2 Observando Leitos Vs Ocupação
 
-Para ver essa figura interativa acesse o final do [notebook](leitos_goias.zip).
+Para ver essa figura interativa acesse o final do notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BANQTSWFJ7dwUd0dx0BU5mzpBHaL_UJu?usp=sharing).
 
 - Nesse plot a circunferência indica o número de leitos por 1000 habitantes
 
