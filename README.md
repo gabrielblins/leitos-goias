@@ -118,6 +118,8 @@ Você pode encontrar todos os dados [aqui](https://drive.google.com/drive/folder
 
 ### 3.1 Observando Leitos por 1000 habitantes
 
+<img src="images/mapa.gif" title="" alt="" data-align="center">
+
 Para ver essa figura interativa acesse o final do [notebook](leitos_goias.zip).
 
 - Percebemos que existem cidades que se saem melhor na questão de leitos por 1000 habitantes, isso pode se dar devido a uma boa gestão das prefeituras locais ou ainda por baixa contaminação naquelas cidades.
