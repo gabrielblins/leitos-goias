@@ -10,7 +10,7 @@ Você pode encontrar todos os dados [aqui]()
 
 ### 2.1 Observando o número total de leitos do Estado de Goiás
 
-![](/home/gabrielblins/Documentos/Playground-DS/leitos-goias/images/img_1_leitostotais.png)
+![](images/img_1_leitostotais.png)
 
 - Na imagem acima podemos ver que antes do período pandêmico já havia uma tendência baixa de crescimento no número de leitos
 
@@ -20,7 +20,7 @@ Você pode encontrar todos os dados [aqui]()
 
 ### 2.2 Observando o total de leitos pelo tipo de leito
 
-<img src="file:///home/gabrielblins/Documentos/Playground-DS/leitos-goias/images/img_2_leitosportipo.png" title="" alt="" data-align="center">
+<img src="images/img_2_leitosportipo.png" title="" alt="" data-align="center">
 
 - Nos dados de Leitos retirados do DATASUS há a indicação de que existem 7 tipos de leitos diferentes.
 
@@ -30,13 +30,13 @@ Você pode encontrar todos os dados [aqui]()
 
 #### 2.2.1 Leitos UTI e UTI Covid
 
-<img src="file:///home/gabrielblins/Documentos/Playground-DS/leitos-goias/images/img_3_leitosuticovid.png" title="" alt="" data-align="center">
+<img src="images/img_3_leitosuticovid.png" title="" alt="" data-align="center">
 
 - A imagem acima apresenta o total de leitos 2 e 3 somados, percebe-se que eles seguem a mesma tendência da curva de leitos totais, sendo assim para algumas análises será interessante utilizar apenas esses leitos
 
 ### 2.3 Observando o total de Leitos SUS e Não SUS
 
-<img src="file:///home/gabrielblins/Documentos/Playground-DS/leitos-goias/images/img_10_leitos-sus-nsus.png" title="" alt="" data-align="center">
+<img src="images/img_10_leitos-sus-nsus.png" title="" alt="" data-align="center">
 
 - A imagem acima apresenta a análise dos leitos totais, separando por leitos SUS e não SUS.
 
@@ -44,17 +44,17 @@ Você pode encontrar todos os dados [aqui]()
 
 - Ao longo da série temporal os dois tipos de leito crescem de forma semelhante, isso pode demonstrar que não haveria leitos SUS suficiente para atender toda a demanda durante o período pandemico, sendo necessário a contratação de leitos não SUS.
 
-<img src="file:///home/gabrielblins/Documentos/Playground-DS/leitos-goias/images/img_10_leitosuti-sus-nsus.png" title="" alt="" data-align="center">
+<img src="images/img_10_leitosuti-sus-nsus.png" title="" alt="" data-align="center">
 
 - Quando olhamos apenas os tipos UTI e UTI covid percebemos um crescimento mais acelerado em relação ao todo, seguindo a mesma linha da análise geral, a proporção se mantém 70% SUS e 30% não SUS.
 
 ## 2.4 Analisando a capacidade hospitalar durante o período
 
-<img src="file:///home/gabrielblins/Documentos/Playground-DS/leitos-goias/images/img_1_leitostotais.png" title="" alt="" data-align="center">
+<img src="images/img_1_leitostotais.png" title="" alt="" data-align="center">
 
 ### 2.4.1 Número total de leitos VS Ocupação de leitos covid
 
-<img src="file:///home/gabrielblins/Documentos/Playground-DS/leitos-goias/images/img_4_leitosxocupacao.png" title="" alt="" data-align="center">
+<img src="images/img_4_leitosxocupacao.png" title="" alt="" data-align="center">
 
 - Conforme apontado anteriormente, percebemos um crescimento acelarado no período pandêmico, com início em Março de 2020 e fim em Dezembro de 2021. Em seguida inicia-se o período de redução da capacidade hospitalar
 
@@ -66,7 +66,7 @@ Você pode encontrar todos os dados [aqui]()
 
 ### 2.4.2 Leitos totais VS Número de vacinados com pelo menos 2ª Dose
 
-<img src="file:///home/gabrielblins/Documentos/Playground-DS/leitos-goias/images/img_5_leitosx2dose.png" title="" alt="" data-align="center">
+<img src="images/img_5_leitosx2dose.png" title="" alt="" data-align="center">
 
 - Durante o período de espera da chegada das vacinas pode-se perceber um aumento na capacidade hospitalar, porém com o passar do tempo as pessoas foram sendo imunizadas contra a covid, levando a redução de sintomas mais severos, com isso redução das ocupações e consequentemente redução da capacidade hospitalar.
 
@@ -78,7 +78,7 @@ Você pode encontrar todos os dados [aqui]()
 
 ### 2.4.3 Leitos Totais VS Número de mortes por Covid
 
-<img src="file:///home/gabrielblins/Documentos/Playground-DS/leitos-goias/images/img_5_leitosxmortes.png" title="" alt="" data-align="center">
+<img src="images/img_5_leitosxmortes.png" title="" alt="" data-align="center">
 
 - Vemos que há uma certa semelhança entre as tendências de crescimento e decaimento das curvas.
 
