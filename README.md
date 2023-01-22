@@ -2,7 +2,7 @@
 
 ## 1. Dados utilizados
 
-Para realização desse projeto foram utilizadas diversas fontes de dados, os dados foram obtidos através da plataforma DATASUS, da Secretária de Estado de Saúde de Goiás, além de projetos open-source disponíveis no github.
+Para realização desse projeto foram utilizadas diversas fontes de dados: os dados foram obtidos através da plataforma DATASUS, da Secretária de Estado de Saúde de Goiás, além de projetos open-source disponíveis no github.
 
 Você pode encontrar todos os dados [aqui](https://drive.google.com/drive/folders/1NsvAb6p2wMMb5ZoLGxkjbLn-BP0twPSg?usp=sharing)
 
@@ -42,7 +42,7 @@ Você pode encontrar todos os dados [aqui](https://drive.google.com/drive/folder
 
 - De modo geral, ao longo de toda série os Leitos SUS representam cerca de 70% do total e os leitos não SUS 30%
 
-- Ao longo da série temporal os dois tipos de leito crescem de forma semelhante, isso pode demonstrar que não haveria leitos SUS suficiente para atender toda a demanda durante o período pandemico, sendo necessário a contratação de leitos não SUS.
+- Ao longo da série temporal os dois tipos de leito crescem de forma semelhante, isso pode demonstrar que não haveria leitos SUS suficiente para atender toda a demanda durante o período pandemico, sendo necessária a contratação de leitos não SUS.
 
 <img src="images/img_10_leitosuti-sus-nsus.png" title="" alt="" data-align="center">
 
@@ -124,6 +124,11 @@ Para ver essa figura interativa acesse o final do notebook [![Open In Colab](htt
 
 - Percebemos que existem cidades que se saem melhor na questão de leitos por 1000 habitantes, isso pode se dar devido a uma boa gestão das prefeituras locais ou ainda por baixa contaminação naquelas cidades.
 
+- De acordo com a OMS a recomendação é que hajam de 3 a 5 leitos por mil habitantes, durante o período analisado Goiás teve em média:
+  - 103.89 Municípios abaixo da recomendação
+  - 55.02 Municípios dentro da recomendação
+  - 30.94 Municípios acima da recomendação
+
 ### 3.2 Observando Leitos Vs Ocupação
 
 Para ver essa figura interativa acesse o final do notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BANQTSWFJ7dwUd0dx0BU5mzpBHaL_UJu?usp=sharing).
@@ -132,6 +137,6 @@ Para ver essa figura interativa acesse o final do notebook [![Open In Colab](htt
 
 - A cor indica o número de contaminações por 100 mil habitantes.
 
-- É um gráfico interessante pois é possível verificarmos como os municípios estão se saindo de modo geral.
+- É um gráfico interessante pois é possível verificarmos como os municípios estão se saindo de modo geral, já que é possível observar 4 variáveis ao mesmo tempo, sendo elas Número de leitos, Ocupação, Leitos por 1000 habitantes e Contaminação por 100 mil habitantes.
 
 
